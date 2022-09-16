@@ -3,7 +3,7 @@ package main
 import (
 	"bufio"
 	"fmt"
-	"m/scanning"
+	"github.com/Saru-1/XSS/scanning"
 )
 
 func main() {
